@@ -1,4 +1,4 @@
-#Collection of Useful Excel VBA Script
+Collection of Useful Excel VBA Script
 
 1. Consolidate Multiple Workbooks (i.e. from multiple files to one)
 - to be uploaded
@@ -13,4 +13,4 @@
 - to be uploaded
 
 5. Counting Distinct Period
-- to be uploaded
+- avaliable
