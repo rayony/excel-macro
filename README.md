@@ -4,8 +4,8 @@
 
 2. Consolidate Worksheets / Merging TabPages (to be uploaded)
 
-3. Send as Email, via Lotus Note (avaliable)
+3. Send as Email, via Lotus Note
 
 4. Auto Filter and Split into New Workbooks by Filter (to be uploaded)
 
-5. Counting Distinct Period (avaliable)
+5. Counting Distinct Period
