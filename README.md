@@ -9,3 +9,5 @@
 4. Auto Filter and Split into New Workbooks by Filter (to be uploaded)
 
 5. Counting Distinct Period
+
+6. Apply Custom Sorting
