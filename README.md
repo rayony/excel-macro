@@ -9,4 +9,4 @@
 ---
 > More codes will be avalaible after data desensitization... 
 
-by [GaryTC](@rayony):space_invader: 
+by [GaryTC](https://github.com/[rayony]/):space_invader: 
