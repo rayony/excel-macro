@@ -6,7 +6,6 @@
 - [ ] 4. Auto Filter and Split into New Workbooks by Filter 
 - [x] 5. Counting Distinct Period
 - [ ] 5. Apply Custom Sorting
-
+---
 > More codes will be avalaible after data desensitization... 
-
-by GaryTC :spaceinvader:
+by GaryTC :space_invader:
