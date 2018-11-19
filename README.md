@@ -7,4 +7,6 @@
 - [x] 5. Counting Distinct Period
 - [ ] 5. Apply Custom Sorting
 
-```More codes will be avalaible after data desensitization...
+```
+More codes will be avalaible after data desensitization...
+```
