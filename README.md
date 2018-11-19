@@ -16,6 +16,6 @@
 -[X] Apply Custom Sorting
 
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] 1. Finish my changes
+- [ ] 2. Push my commits to GitHub
+- [ ] 3. Open a pull request
