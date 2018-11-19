@@ -7,6 +7,8 @@
 - [x] 5. Counting Distinct Period
 - [ ] 6. Apply Custom Sorting
 ---
+
+# Updates:
 > More codes will be avalaible after data desensitization... 
 
 by [GaryTC](https://github.com/rayony/):space_invader: 
