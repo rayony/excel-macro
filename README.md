@@ -11,6 +11,6 @@
 [ ]4. Auto Filter and Split into New Workbooks by Filter 
 >to be uploaded
 
-[ ] Counting Distinct Period
+-[ ] Counting Distinct Period
 
-[X] Apply Custom Sorting
+-[X] Apply Custom Sorting
