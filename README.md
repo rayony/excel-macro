@@ -8,5 +8,5 @@
 - [ ] 5. Apply Custom Sorting
 
 ```
-More codes will be avalaible after data desensitization...
+More codes will be avalaible after data desensitization... -- :neckbeard:GaryTC
 ```
