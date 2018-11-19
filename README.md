@@ -1,5 +1,6 @@
 ### Collection of Excel VBA Script for Daily Work
 ---
+###### Avaliable Examples:
 - [ ] 1. Consolidate Workbooks / Merging Files
 - [ ] 2. Consolidate Worksheets / Merging TabPages 
 - [X] 3. Send as Email, via Lotus Note
@@ -8,7 +9,7 @@
 - [ ] 6. Apply Custom Sorting
 ---
 
-##### Updates:
+###### Updates:
 > More codes will be avalaible after data desensitization... 
 
 by [GaryTC](https://github.com/rayony/):space_invader: 
