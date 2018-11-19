@@ -5,8 +5,8 @@
 - [X] 3. Send as Email, via Lotus Note
 - [ ] 4. Auto Filter and Split into New Workbooks by Filter 
 - [x] 5. Counting Distinct Period
-- [ ] 5. Apply Custom Sorting
+- [ ] 6. Apply Custom Sorting
 ---
 > More codes will be avalaible after data desensitization... 
 
-by [GaryTC](https://github.com/[rayony]/):space_invader: 
+by [GaryTC](https://github.com/rayony/):space_invader: 
