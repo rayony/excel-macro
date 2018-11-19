@@ -7,6 +7,7 @@
 - [ ] 4. Auto Filter and Split into New Workbooks by Filter 
 - [x] [5. Counting Distinct Period](https://github.com/rayony/excel-macro/tree/master/5.%20%20Counting%20Distinct%20Period)
 - [ ] 6. Apply Custom Sorting
+- [ ] 7. Auto-Crack Excel Workbook Password
 ---
 
 ###### Updates:
